@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         VIDEO,
         CAMERA,
     }
+
     private InputSource inputSource = InputSource.UNKNOWN;
 
     // Image demo UI and image loader components.
